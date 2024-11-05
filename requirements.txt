@@ -1,0 +1,12 @@
+openai==0.28.0 
+langchain
+faiss-cpu
+pypdf
+langchain==0.2.17
+langchain-community==0.2.0
+tiktoken
+streamlit
+python-dotenv
+
+
+
